@@ -11,8 +11,8 @@ With **deep learning** models, we combined embedding with classification task in
 
 ### Result
 
-| Model | Test set accuracy | 
-| ---------- | ------------ | 
-| tf-idf + Logistic Regression  | 76.49%    |
-| BERT + NN + Logistic  | 74.02%    | 
-| LSTM + Softmax | 72.00% |
+| Model | Type  | Test set accuracy | 
+| ---------- |------| ------------ | 
+| tf-idf + Logistic Regression  | Traditional | 76.49%    |
+| BERT + NN + Logistic  | Deep learning | 74.02%    | 
+| LSTM + Softmax | Deep Learning | 72.00% |
