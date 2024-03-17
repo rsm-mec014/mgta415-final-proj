@@ -15,6 +15,7 @@ The dataset is used in Kaggle Competition.
 
 | Model | Type  | Test set accuracy | 
 | ---------- |------| ------------ | 
+| Word2Vec + Logistic Regression | Traditional | 77% |
 | tf-idf + Logistic Regression  | Traditional | 76.49%    |
 | BERT + NN + Logistic  | Deep learning | 74.02%    | 
 | LSTM + Softmax | Deep Learning | 72.00% |
