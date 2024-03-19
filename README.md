@@ -8,7 +8,7 @@ With **deep learning** models, we combined embedding with classification task in
 The dataset is used in Kaggle Competition.
 
 - For LSTM model, see the file ```dl.ipynb```
-- For NN model, BERT and tf-idf, see ```traditional.ipynb```
+- For NN model, BERT and tf-idf, see ```bert_tfidf.ipynb```
 - For Word2Vec model, see ```w2v.ipynb```
 
 ### Result
