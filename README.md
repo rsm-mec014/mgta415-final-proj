@@ -1,7 +1,7 @@
 # MGTA415 24 Spring Final Project
-## Do deep learning models always achieve higher accuracy in multi-class prediction, comparing to traditional machine learning models?
+## Traditional Machine Learning Models Outperforms Deep Learning on Limited Training Corpous, Taking Restaurant Review as Example
 
-In this study, we tried to explore whether deep learning models always performs better than traditional machine learning algorithms, including tf-idf and Word2Vec.
+In this study, we tried to explore whether deep learning models always performs better than traditional machine learning algorithms, including tf-idf and Word2Vec, when the training corpus is limited.
 
 With **deep learning** models, we combined embedding with classification task into one neural network. For **machine learning** algorithms, we built classification models (e.g. logistic regression and random forest) trained by embedded vectors using tf-idf or Word2Vec.
 
