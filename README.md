@@ -19,3 +19,6 @@ The dataset is used in Kaggle Competition.
 | tf-idf + Logistic Regression  | Traditional | 76.49%    |
 | BERT + NN + Logistic  | Deep learning | 74.02%    | 
 | LSTM + Softmax | Deep Learning | 72.00% |
+
+### Discussion
+This experimental outcome is an evidence that traditional ML model generally outperform deep learning on multi-level categorization, in the case when the training corpus is limited.
